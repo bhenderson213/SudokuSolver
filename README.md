@@ -3,4 +3,4 @@ I made a Sudoku Solver! It solves and displays iteratively so the process can be
 
 dependencies: packages tkinter and random 
 
-To start, run the program, then enter each known value. Once all given values are entered, press <enter>. 
+To start, run the program, then enter each known value. Once all given values are entered, press \<enter\>. 
